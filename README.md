@@ -7,9 +7,9 @@
 На тестирование затрачено: 30 минут
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/NAleshina/KeyValidator/issues/1
+* https://github.com/NAleshina/KeyValidator/issues/2
+* https://github.com/NAleshina/KeyValidator/issues/3
 
 ## Описание процесса тестирования
 
